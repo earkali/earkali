@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a3cff,2575fc&height=180&section=header&text=Ege%20Arkalı&fontSize=40&fontAlignY=35&desc=👾%20Computer%20Engineer%20%7C%20Turkey&descAlignY=60&descAlign=62" alt="header"/>
-</p>
-
 <h2 align="center">👋 Hi, I'm Ege Arkalı!</h2>
 <p align="center">
   I'm a Computer Engineering student.<br>
